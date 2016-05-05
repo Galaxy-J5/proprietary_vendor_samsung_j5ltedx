@@ -22,5 +22,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5ltedx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/j5ltedx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j5ltedx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/j5ltedx/proprietary/lib/libsec-ril-dsda.so:system/lib/libsec-ril-dsda.so 
-
+    vendor/samsung/j5ltedx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so
